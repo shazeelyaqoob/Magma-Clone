@@ -49,7 +49,6 @@ function splitTextIntoSpans(selector) {
   
   element.innerHTML = clutter;
   
-  // Return the selector for the spans for GSAP animation
   return `${selector}>span`;
 }
 
@@ -178,11 +177,11 @@ function initCanvasAnimation(selector, frameCount, imagePaths, pinOptions = {}) 
 
 // Image paths for different sections
 const cylinderFrames = Array.from({ length: 67 }, (_, i) => 
-  `../../images/cylinder_frames/frames${String(i * 3 + 7).padStart(5, '0')}.png`
+  `images/cylinder_frames/frames${String(i * 3 + 7).padStart(5, '0')}.png`
 );
 
 const bridgesFrames = Array.from({ length: 67 }, (_, i) =>
-  `../../images/bridges_frames/bridges${String(i * 3 + 4).padStart(5, '0')}.png`
+  `images/bridges_frames/bridges${String(i * 3 + 4).padStart(5, '0')}.png`
 );
 
 const loreFrames = Array.from({ length: 136 }, (_, i) =>
@@ -194,8 +193,8 @@ console.log("Cylinders:", bridgesFrames);
 
 // Initialize canvas animations
 initCanvasAnimation("#page3", 67, cylinderFrames);
-// initCanvasAnimation("#page5", 67, bridgesFrames);
-// initCanvasAnimation("#page7", 136, loreFrames);
+initCanvasAnimation("#page5", 67, bridgesFrames);
+initCanvasAnimation("#page7", 136, loreFrames);
 
 // Additional page 7 animations
 gsap.to(".page7-cir", {
