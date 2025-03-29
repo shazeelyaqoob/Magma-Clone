@@ -178,7 +178,7 @@ function initCanvasAnimation(selector, frameCount, imagePaths, pinOptions = {}) 
 
 // Image paths for different sections
 const cylinderFrames = Array.from({ length: 67 }, (_, i) => 
-  `../images/cylinder_frames/frames${String(i * 3 + 7).padStart(5, '0')}.png`
+  `../../images/cylinder_frames/frames${String(i * 3 + 7).padStart(5, '0')}.png`
 );
 
 const bridgesFrames = Array.from({ length: 67 }, (_, i) =>
