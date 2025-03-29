@@ -193,7 +193,7 @@ console.log("Cylinders:", cylinderFrames);
 console.log("Cylinders:", bridgesFrames);
 
 // Initialize canvas animations
-// initCanvasAnimation("#page3", 67, cylinderFrames);
+initCanvasAnimation("#page3", 67, cylinderFrames);
 // initCanvasAnimation("#page5", 67, bridgesFrames);
 // initCanvasAnimation("#page7", 136, loreFrames);
 
