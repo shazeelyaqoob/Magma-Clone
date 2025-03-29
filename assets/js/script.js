@@ -70,72 +70,72 @@ window.addEventListener("resize", function () {
 
 function files(index) {
   var data = `
-  ../assets/images/cylinder_frames/frames00007.png
-  ../assets/images/cylinder_frames/frames00010.png
-  ../assets/images/cylinder_frames/frames00013.png
-  ../assets/images/cylinder_frames/frames00016.png
-  ../assets/images/cylinder_frames/frames00019.png
-  ../assets/images/cylinder_frames/frames00022.png
-  ../assets/images/cylinder_frames/frames00025.png
-  ../assets/images/cylinder_frames/frames00028.png
-  ../assets/images/cylinder_frames/frames00031.png
-  ../assets/images/cylinder_frames/frames00034.png
-  ../assets/images/cylinder_frames/frames00037.png
-  ../assets/images/cylinder_frames/frames00040.png
-  ../assets/images/cylinder_frames/frames00043.png
-  ../assets/images/cylinder_frames/frames00046.png
-  ../assets/images/cylinder_frames/frames00049.png
-  ../assets/images/cylinder_frames/frames00052.png
-  ../assets/images/cylinder_frames/frames00055.png
-  ../assets/images/cylinder_frames/frames00058.png
-  ../assets/images/cylinder_frames/frames00061.png
-  ../assets/images/cylinder_frames/frames00064.png
-  ../assets/images/cylinder_frames/frames00067.png
-  ../assets/images/cylinder_frames/frames00070.png
-  ../assets/images/cylinder_frames/frames00073.png
-  ../assets/images/cylinder_frames/frames00076.png
-  ../assets/images/cylinder_frames/frames00079.png
-  ../assets/images/cylinder_frames/frames00082.png
-  ../assets/images/cylinder_frames/frames00085.png
-  ../assets/images/cylinder_frames/frames00088.png
-  ../assets/images/cylinder_frames/frames00091.png
-  ../assets/images/cylinder_frames/frames00094.png
-  ../assets/images/cylinder_frames/frames00097.png
-  ../assets/images/cylinder_frames/frames00100.png
-  ../assets/images/cylinder_frames/frames00103.png
-  ../assets/images/cylinder_frames/frames00106.png
-  ../assets/images/cylinder_frames/frames00109.png
-  ../assets/images/cylinder_frames/frames00112.png
-  ../assets/images/cylinder_frames/frames00115.png
-  ../assets/images/cylinder_frames/frames00118.png
-  ../assets/images/cylinder_frames/frames00121.png
-  ../assets/images/cylinder_frames/frames00124.png
-  ../assets/images/cylinder_frames/frames00127.png
-  ../assets/images/cylinder_frames/frames00130.png
-  ../assets/images/cylinder_frames/frames00133.png
-  ../assets/images/cylinder_frames/frames00136.png
-  ../assets/images/cylinder_frames/frames00139.png
-  ../assets/images/cylinder_frames/frames00142.png
-  ../assets/images/cylinder_frames/frames00145.png
-  ../assets/images/cylinder_frames/frames00148.png
-  ../assets/images/cylinder_frames/frames00151.png
-  ../assets/images/cylinder_frames/frames00154.png
-  ../assets/images/cylinder_frames/frames00157.png
-  ../assets/images/cylinder_frames/frames00160.png
-  ../assets/images/cylinder_frames/frames00163.png
-  ../assets/images/cylinder_frames/frames00166.png
-  ../assets/images/cylinder_frames/frames00169.png
-  ../assets/images/cylinder_frames/frames00172.png
-  ../assets/images/cylinder_frames/frames00175.png
-  ../assets/images/cylinder_frames/frames00178.png
-  ../assets/images/cylinder_frames/frames00181.png
-  ../assets/images/cylinder_frames/frames00184.png
-  ../assets/images/cylinder_frames/frames00187.png
-  ../assets/images/cylinder_frames/frames00190.png
-  ../assets/images/cylinder_frames/frames00193.png
-  ../assets/images/cylinder_frames/frames00196.png
-  ../assets/images/cylinder_frames/frames00199.png
-  ../assets/images/cylinder_frames/frames00202.png
+  ../../images/cylinder_frames/frames00007.png
+  ../../images/cylinder_frames/frames00010.png
+  ../../images/cylinder_frames/frames00013.png
+  ../../images/cylinder_frames/frames00016.png
+  ../../images/cylinder_frames/frames00019.png
+  ../../images/cylinder_frames/frames00022.png
+  ../../images/cylinder_frames/frames00025.png
+  ../../images/cylinder_frames/frames00028.png
+  ../../images/cylinder_frames/frames00031.png
+  ../../images/cylinder_frames/frames00034.png
+  ../../images/cylinder_frames/frames00037.png
+  ../../images/cylinder_frames/frames00040.png
+  ../../images/cylinder_frames/frames00043.png
+  ../../images/cylinder_frames/frames00046.png
+  ../../images/cylinder_frames/frames00049.png
+  ../../images/cylinder_frames/frames00052.png
+  ../../images/cylinder_frames/frames00055.png
+  ../../images/cylinder_frames/frames00058.png
+  ../../images/cylinder_frames/frames00061.png
+  ../../images/cylinder_frames/frames00064.png
+  ../../images/cylinder_frames/frames00067.png
+  ../../images/cylinder_frames/frames00070.png
+  ../../images/cylinder_frames/frames00073.png
+  ../../images/cylinder_frames/frames00076.png
+  ../../images/cylinder_frames/frames00079.png
+  ../../images/cylinder_frames/frames00082.png
+  ../../images/cylinder_frames/frames00085.png
+  ../../images/cylinder_frames/frames00088.png
+  ../../images/cylinder_frames/frames00091.png
+  ../../images/cylinder_frames/frames00094.png
+  ../../images/cylinder_frames/frames00097.png
+  ../../images/cylinder_frames/frames00100.png
+  ../../images/cylinder_frames/frames00103.png
+  ../../images/cylinder_frames/frames00106.png
+  ../../images/cylinder_frames/frames00109.png
+  ../../images/cylinder_frames/frames00112.png
+  ../../images/cylinder_frames/frames00115.png
+  ../../images/cylinder_frames/frames00118.png
+  ../../images/cylinder_frames/frames00121.png
+  ../../images/cylinder_frames/frames00124.png
+  ../../images/cylinder_frames/frames00127.png
+  ../../images/cylinder_frames/frames00130.png
+  ../../images/cylinder_frames/frames00133.png
+  ../../images/cylinder_frames/frames00136.png
+  ../../images/cylinder_frames/frames00139.png
+  ../../images/cylinder_frames/frames00142.png
+  ../../images/cylinder_frames/frames00145.png
+  ../../images/cylinder_frames/frames00148.png
+  ../../images/cylinder_frames/frames00151.png
+  ../../images/cylinder_frames/frames00154.png
+  ../../images/cylinder_frames/frames00157.png
+  ../../images/cylinder_frames/frames00160.png
+  ../../images/cylinder_frames/frames00163.png
+  ../../images/cylinder_frames/frames00166.png
+  ../../images/cylinder_frames/frames00169.png
+  ../../images/cylinder_frames/frames00172.png
+  ../../images/cylinder_frames/frames00175.png
+  ../../images/cylinder_frames/frames00178.png
+  ../../images/cylinder_frames/frames00181.png
+  ../../images/cylinder_frames/frames00184.png
+  ../../images/cylinder_frames/frames00187.png
+  ../../images/cylinder_frames/frames00190.png
+  ../../images/cylinder_frames/frames00193.png
+  ../../images/cylinder_frames/frames00196.png
+  ../../images/cylinder_frames/frames00199.png
+  ../../images/cylinder_frames/frames00202.png
  `;
   return data.split("\n")[index];
 }
@@ -240,73 +240,73 @@ render();
 
 function files(index) {
 var data = `
-../assets/images/bridges_frames/bridges00004.png
-../assets/images/bridges_frames/bridges00007.png
-../assets/images/bridges_frames/bridges00010.png
-../assets/images/bridges_frames/bridges00013.png
-../assets/images/bridges_frames/bridges00016.png
-../assets/images/bridges_frames/bridges00019.png
-../assets/images/bridges_frames/bridges00022.png
-../assets/images/bridges_frames/bridges00025.png
-../assets/images/bridges_frames/bridges00028.png
-../assets/images/bridges_frames/bridges00031.png
-../assets/images/bridges_frames/bridges00034.png
-../assets/images/bridges_frames/bridges00037.png
-../assets/images/bridges_frames/bridges00040.png
-../assets/images/bridges_frames/bridges00043.png
-../assets/images/bridges_frames/bridges00046.png
-../assets/images/bridges_frames/bridges00049.png
-../assets/images/bridges_frames/bridges00052.png
-../assets/images/bridges_frames/bridges00055.png
-../assets/images/bridges_frames/bridges00058.png
-../assets/images/bridges_frames/bridges00061.png
-../assets/images/bridges_frames/bridges00064.png
-../assets/images/bridges_frames/bridges00067.png
-../assets/images/bridges_frames/bridges00070.png
-../assets/images/bridges_frames/bridges00073.png
-../assets/images/bridges_frames/bridges00076.png
-../assets/images/bridges_frames/bridges00079.png
-../assets/images/bridges_frames/bridges00082.png
-../assets/images/bridges_frames/bridges00085.png
-../assets/images/bridges_frames/bridges00088.png
-../assets/images/bridges_frames/bridges00091.png
-../assets/images/bridges_frames/bridges00094.png
-../assets/images/bridges_frames/bridges00097.png
-../assets/images/bridges_frames/bridges00100.png
-../assets/images/bridges_frames/bridges00103.png
-../assets/images/bridges_frames/bridges00106.png
-../assets/images/bridges_frames/bridges00109.png
-../assets/images/bridges_frames/bridges00112.png
-../assets/images/bridges_frames/bridges00115.png
-../assets/images/bridges_frames/bridges00118.png
-../assets/images/bridges_frames/bridges00121.png
-../assets/images/bridges_frames/bridges00124.png
-../assets/images/bridges_frames/bridges00127.png
-../assets/images/bridges_frames/bridges00130.png
-../assets/images/bridges_frames/bridges00133.png
-../assets/images/bridges_frames/bridges00136.png
-../assets/images/bridges_frames/bridges00139.png
-../assets/images/bridges_frames/bridges00142.png
-../assets/images/bridges_frames/bridges00145.png
-../assets/images/bridges_frames/bridges00148.png
-../assets/images/bridges_frames/bridges00151.png
-../assets/images/bridges_frames/bridges00154.png
-../assets/images/bridges_frames/bridges00157.png
-../assets/images/bridges_frames/bridges00160.png
-../assets/images/bridges_frames/bridges00163.png
-../assets/images/bridges_frames/bridges00166.png
-../assets/images/bridges_frames/bridges00169.png
-../assets/images/bridges_frames/bridges00172.png
-../assets/images/bridges_frames/bridges00175.png
-../assets/images/bridges_frames/bridges00178.png
-../assets/images/bridges_frames/bridges00181.png
-../assets/images/bridges_frames/bridges00184.png
-../assets/images/bridges_frames/bridges00187.png
-../assets/images/bridges_frames/bridges00190.png
-../assets/images/bridges_frames/bridges00193.png
-../assets/images/bridges_frames/bridges00196.png
-../assets/images/bridges_frames/bridges00199.png
-../assets/images/bridges_frames/bridges00202.png
+../../images/bridges_frames/bridges00004.png
+../../images/bridges_frames/bridges00007.png
+../../images/bridges_frames/bridges00010.png
+../../images/bridges_frames/bridges00013.png
+../../images/bridges_frames/bridges00016.png
+../../images/bridges_frames/bridges00019.png
+../../images/bridges_frames/bridges00022.png
+../../images/bridges_frames/bridges00025.png
+../../images/bridges_frames/bridges00028.png
+../../images/bridges_frames/bridges00031.png
+../../images/bridges_frames/bridges00034.png
+../../images/bridges_frames/bridges00037.png
+../../images/bridges_frames/bridges00040.png
+../../images/bridges_frames/bridges00043.png
+../../images/bridges_frames/bridges00046.png
+../../images/bridges_frames/bridges00049.png
+../../images/bridges_frames/bridges00052.png
+../../images/bridges_frames/bridges00055.png
+../../images/bridges_frames/bridges00058.png
+../../images/bridges_frames/bridges00061.png
+../../images/bridges_frames/bridges00064.png
+../../images/bridges_frames/bridges00067.png
+../../images/bridges_frames/bridges00070.png
+../../images/bridges_frames/bridges00073.png
+../../images/bridges_frames/bridges00076.png
+../../images/bridges_frames/bridges00079.png
+../../images/bridges_frames/bridges00082.png
+../../images/bridges_frames/bridges00085.png
+../../images/bridges_frames/bridges00088.png
+../../images/bridges_frames/bridges00091.png
+../../images/bridges_frames/bridges00094.png
+../../images/bridges_frames/bridges00097.png
+../../images/bridges_frames/bridges00100.png
+../../images/bridges_frames/bridges00103.png
+../../images/bridges_frames/bridges00106.png
+../../images/bridges_frames/bridges00109.png
+../../images/bridges_frames/bridges00112.png
+../../images/bridges_frames/bridges00115.png
+../../images/bridges_frames/bridges00118.png
+../../images/bridges_frames/bridges00121.png
+../../images/bridges_frames/bridges00124.png
+../../images/bridges_frames/bridges00127.png
+../../images/bridges_frames/bridges00130.png
+../../images/bridges_frames/bridges00133.png
+../../images/bridges_frames/bridges00136.png
+../../images/bridges_frames/bridges00139.png
+../../images/bridges_frames/bridges00142.png
+../../images/bridges_frames/bridges00145.png
+../../images/bridges_frames/bridges00148.png
+../../images/bridges_frames/bridges00151.png
+../../images/bridges_frames/bridges00154.png
+../../images/bridges_frames/bridges00157.png
+../../images/bridges_frames/bridges00160.png
+../../images/bridges_frames/bridges00163.png
+../../images/bridges_frames/bridges00166.png
+../../images/bridges_frames/bridges00169.png
+../../images/bridges_frames/bridges00172.png
+../../images/bridges_frames/bridges00175.png
+../../images/bridges_frames/bridges00178.png
+../../images/bridges_frames/bridges00181.png
+../../images/bridges_frames/bridges00184.png
+../../images/bridges_frames/bridges00187.png
+../../images/bridges_frames/bridges00190.png
+../../images/bridges_frames/bridges00193.png
+../../images/bridges_frames/bridges00196.png
+../../images/bridges_frames/bridges00199.png
+../../images/bridges_frames/bridges00202.png
 `;
 return data.split("\n")[index];
 }
