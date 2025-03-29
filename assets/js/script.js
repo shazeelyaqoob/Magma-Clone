@@ -151,6 +151,7 @@ for (let i = 0; i < frameCount; i++) {
   const img = new Image();
   img.src = files(i);
   images.push(img);
+  console.log("Cylinder SRC:", img.src);
 }
 
 gsap.to(imageSeq, {
@@ -322,6 +323,7 @@ for (let i = 0; i < frameCount; i++) {
 const img = new Image();
 img.src = files(i);
 images.push(img);
+console.log("Bridges SRC:", img.src);
 }
 
 gsap.to(imageSeq, {
