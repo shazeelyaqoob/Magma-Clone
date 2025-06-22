@@ -5,7 +5,7 @@ function loco() {
     el: document.querySelector("#main"),
     smooth: true,
   });
-  
+
   locoScroll.on("scroll", ScrollTrigger.update);
 
   ScrollTrigger.scrollerProxy("#main", {
@@ -31,6 +31,7 @@ function loco() {
 
   ScrollTrigger.refresh();
 }
+
 loco();
 
 var clutter = "";
