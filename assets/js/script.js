@@ -5,6 +5,7 @@ function loco() {
     el: document.querySelector("#main"),
     smooth: true,
   });
+  
   locoScroll.on("scroll", ScrollTrigger.update);
 
   ScrollTrigger.scrollerProxy("#main", {
